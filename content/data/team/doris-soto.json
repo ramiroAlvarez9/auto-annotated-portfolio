@@ -7,5 +7,6 @@
         "url": "/images/about.jpg",
         "altText": "Doris Soto photo"
     },
-    "role": "Javascript Developer"
+    "role": "Javascript Developer",
+    "bio": "una bio\n"
 }
